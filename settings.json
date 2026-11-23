@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NEKOSMP-7WmE.aternos.me:61221",
+    "ip": "NEKOSMP-7WmE.aternos.me",
     "port": 61221,
     "version": "",
     "try-creative": false
